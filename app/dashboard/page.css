@@ -47,7 +47,7 @@
 }
 
 /* 記事なし */
-.empty {
+.page .empty {
   text-align: center;
   padding: 4rem 1.5rem;
   color: var(--color-text-secondary);
