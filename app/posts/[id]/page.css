@@ -19,7 +19,7 @@
   margin-bottom: 1.25rem;
 }
 
-.article-title {
+.article .article-title {
   font-family: 'Playfair Display', serif;
   font-size: var(--text-2xl);
   font-weight: 700;
@@ -200,7 +200,7 @@
 
 /* レスポンシブ */
 @media (max-width: 768px) {
-  .article-title {
+  .article .article-title {
     font-size: var(--text-xl);
   }
 }
